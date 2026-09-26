@@ -10,8 +10,8 @@ A small, portable Windows mouse jiggler with Normal and Zen modes, a notificatio
 
 ## 下載｜Download
 
-- [直接下載 EXE｜Download EXE](https://tools.kiwi-ai.uk/MouseJiggle.exe)
-- [下載可攜版 ZIP｜Download portable ZIP](https://tools.kiwi-ai.uk/MouseJiggle.zip)
+- [直接下載 EXE｜Download EXE](https://github.com/xyzKIWI/MouseJiggle/releases/latest/download/MouseJiggle.exe)
+- [下載可攜版 ZIP｜Download portable ZIP](https://github.com/xyzKIWI/MouseJiggle/releases/latest/download/MouseJiggle.zip)
 - [GitHub Releases](https://github.com/xyzKIWI/MouseJiggle/releases/latest)
 
 Windows 10／11，需具備 .NET Framework 4.8。程式以 x86 WinExe 編譯，不需安裝或系統管理員權限。
@@ -36,7 +36,7 @@ Windows 10/11 with .NET Framework 4.8 is required. The application is compiled a
 
 ### 使用方式
 
-1. 下載 `MouseJiggle.exe`，或解壓縮 `MouseJiggle-portable.zip`。
+1. 下載 `MouseJiggle.exe`，或解壓縮 `MouseJiggle.zip`。
 2. 執行 `MouseJiggle.exe`；程式會立即以 Zen 模式開始。
 3. 使用 **Start Jiggling／Stop Jiggling** 控制執行狀態。
 4. 選擇 **Normal** 或 **Zen**，並設定 1–60 秒間隔。
@@ -86,7 +86,7 @@ MouseJiggle 不使用網路、不安裝服務、不記錄鍵盤或滑鼠內容�
 
 ### Usage
 
-1. Download `MouseJiggle.exe`, or extract `MouseJiggle-portable.zip`.
+1. Download `MouseJiggle.exe`, or extract `MouseJiggle.zip`.
 2. Run `MouseJiggle.exe`; it starts immediately in Zen mode.
 3. Use **Start Jiggling / Stop Jiggling** to control the active state.
 4. Select **Normal** or **Zen**, then choose an interval from 1 to 60 seconds.
